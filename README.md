@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chishahmecorp
-- 👀 I’m interested in waiting for the PANDEMIC to End.
 - 🌱 I’m currently learning to have ultra patience in life.
-- 📫 chirag.shah@mediacorp.com.sg
+- 📫 Chirag.Shah1@mediacorp.com.sg
 
 <!---
 chishahmecorp/chishahmecorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
